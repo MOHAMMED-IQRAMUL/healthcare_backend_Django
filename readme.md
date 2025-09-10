@@ -24,30 +24,6 @@ This project is a **Healthcare Management System** built using **Django Rest Fra
 
 ---
 
-## 📂 Project Structure
-
-```md
-
-healthcare\_backend/
-│── manage.py
-│── requirements.txt
-│── README.md
-│── healthcare/         # main project config
-│   ├── settings.py
-│   ├── urls.py
-│   └── ...
-│── patients/           # Patients app
-│   ├── models.py
-│   ├── views.py
-│   ├── serializers.py
-│   ├── urls.py
-│── doctors/            # Doctors app
-│── mappings/           # Patient-Doctor mapping app
-
-````
-
----
-
 ## ⚙️ Setup Instructions
 
 Check the file {  `Exact_Step_To_Run` }
