@@ -50,49 +50,8 @@ healthcare\_backend/
 
 ## ⚙️ Setup Instructions
 
-1. **Clone Repository**
-
-```bash
-git clone <repo-url>
-cd healthcare_backend
-````
-
-1.**Create Virtual Environment**
-
-   ```bash
-   python -m venv venv
-   venv\Scripts\activate      # Windows
-   ```
-
-3.**Install Dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4.**Setup Database**
-
-- Configure PostgreSQL credentials in `healthcare/settings.py`
-- Or connect Supabase database
-
-5.**Apply Migrations**
-
-   ```bash
-   python manage.py makemigrations
-   python manage.py migrate
-   ```
-
-6.**Create Superuser**
-
-   ```bash
-   python manage.py createsuperuser
-   ```
-
-7.**Run Server**
-
-   ```bash
-   python manage.py runserver
-   ```
+Check the file {  `Exact_Step_To_Run` }
+For detailed setup instructions, [Exact_Step_To_Run](./Exact_Step_To_Run.md).
 
 ---
 
