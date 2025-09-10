@@ -117,26 +117,34 @@ GET/PUT/DELETE /api/mappings/{id}/
 
 ## 10. Screenshots
 
-Root:
+**Root:**
+
 ![Root](docs/images/image-2.png)
 
-Admin:
+**Admin:**
+
 ![Admin](docs/images/image-3.png)
 
-Landing / Create User Prompt:
+**Landing / Create User Prompt:**
+
 ![Landing](docs/images/image.png)
 
-Register:
+**Register:**
+
 ![Register](docs/images/image-1.png)
 
-Login:
+**Login:**
+
 ![Login](docs/images/image-4.png)
 
-Doctors:
+**Doctors:**
+
 ![Doctors](docs/images/image-5.png)
 
-Patients:
+**Patients:**
+
 ![Patients](docs/images/image-6.png)
 
-Mappings:
+**Mappings:**
+
 ![Mappings](docs/images/image-7.png)
